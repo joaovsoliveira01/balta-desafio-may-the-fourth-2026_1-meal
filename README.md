@@ -25,7 +25,10 @@ Utilizar a IA cruza sua lista de ingredientes com o tempo livre na sua agenda (A
 - Expor um endpoint que recebe a entrada do usuário e retorna a receita
 
 Neste processo eu aprendi:
-* ✅ 
+* ✅
+
+## Bagde
+<img src="https://baltaio.blob.core.windows.net/static/images/v4/challenges/may-the-fourth-2026/rewards/meal/image.png" width="200" />
 
 ## Problema
 --
